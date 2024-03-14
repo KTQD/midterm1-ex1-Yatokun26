@@ -1,4 +1,3 @@
-// Lớp Main
 public class Main {
     public static void main(String[] args) {
         MP3 mp3 = new MP3("Máy nghe nhạc MP3", "Máy nghe nhạc cầm tay", "MP3001", 49.99f, 3600);
